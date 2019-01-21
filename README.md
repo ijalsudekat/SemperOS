@@ -88,11 +88,3 @@ Untuk mengganti logo pada login screen edit gambar logo.png yang ada di /usr/sha
 3.	Proses Remaster
 Install remastersys dengan cara download file yang dibutuhkan
 Kemudian install semua file deb dengan command di bawah
- 
-Tampilan awal Remastersys adalah seperti ini
- 
-•	Backup : Melakukan proses Remastering secara keseluruhan, termasuk data– data yang tersimpan di dalamnya.
-•	Dist : Melakukan proses Remastering hanya pada customisasi yang berubah, misal : Theme, Icon, Aplikasi.
-•	Distcdfs : Melakukan proses Remastering hanya pada perubahan File System.
-•	Distiso : Melakukan proses Remastering hanya untuk membuat file ISO saja. Bukan pada file systemnya.
- 
